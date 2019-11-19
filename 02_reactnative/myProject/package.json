@@ -1,0 +1,31 @@
+{
+  "name": "myProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/start --port=8081",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.58.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "@types/react-native": "^0.60.22",
+    "ajv": "^6.10.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "24.9.0",
+    "colors": "^1.4.0",
+    "compare-versions": "^3.5.1",
+    "eslint": "^6.6.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.57.0",
+    "minimist": "^1.2.0",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "license": "UNLICENSED"
+}
