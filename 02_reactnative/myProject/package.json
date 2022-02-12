@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/react": "^16.9.11",
     "@types/react-native": "^0.60.22",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "24.9.0",
     "colors": "^1.4.0",
